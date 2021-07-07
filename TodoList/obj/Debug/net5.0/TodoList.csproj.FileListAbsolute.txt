@@ -1,0 +1,16 @@
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.exe
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.deps.json
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.json
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.dev.json
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.dll
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\ref\TodoList.dll
+C:\Users\ghidyon\source\repos\TodoList\TodoList\bin\Debug\net5.0\TodoList.pdb
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.AssemblyReference.cache
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfo.cs
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.dll
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\ref\TodoList.dll
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.pdb
+C:\Users\ghidyon\source\repos\TodoList\TodoList\obj\Debug\net5.0\TodoList.genruntimeconfig.cache
